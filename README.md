@@ -37,12 +37,12 @@ A simple **one-page CRUD** web application built with **Java Spring Boot + Thyme
 
 ---
 
-### Edit Customer Email
+### Edit Customer Email (Moonna Email)
 <img width="940" height="735" alt="Edit Customer Email" src="https://github.com/user-attachments/assets/649f7f1b-bb01-4f51-ae3c-791403448886" />
 
 ---
 
-### Updated Customer Email
+### Updated Customer Email (Moonna email)
 <img width="952" height="728" alt="Updated Customer Email" src="https://github.com/user-attachments/assets/4895d64a-8b73-4643-8d0e-2a32cf359d99" />
 
 ---
